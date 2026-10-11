@@ -1,0 +1,13 @@
+{
+  "name": "bridge-the-gap-skills",
+  "version": "1.0.0",
+  "description": "Navigation bridge, back chain, ports and adapters, accessibility at the seam, and a migration review for Flutter apps where old and new code run side by side",
+  "author": {
+    "name": "Mateusz Rus",
+    "url": "https://www.linkedin.com/in/mateusz-rus-782b3b181"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/devstenic/bridge-the-gap-skills",
+  "repository": "https://github.com/devstenic/bridge-the-gap-skills",
+  "keywords": ["flutter", "go_router", "getx", "migration", "hexagonal", "accessibility"]
+}

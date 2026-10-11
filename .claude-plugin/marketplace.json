@@ -1,0 +1,14 @@
+{
+  "name": "bridge-the-gap",
+  "description": "Skills from the Fluttercon 2026 talk Bridging the Gap: incremental navigation and UI migration in Flutter apps",
+  "owner": {
+    "name": "Mateusz Rus"
+  },
+  "plugins": [
+    {
+      "name": "bridge-the-gap-skills",
+      "source": "./",
+      "description": "Navigation bridge, back chain, ports and adapters, accessibility at the seam, and a migration review for Flutter apps where old and new code run side by side"
+    }
+  ]
+}
