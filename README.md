@@ -19,13 +19,13 @@ When a big app moves from an old architecture (GetX, Navigator 1.0) to a modular
 For any agent that reads `SKILL.md` (Claude Code, Codex, GitHub Copilot, Cursor, Gemini CLI and others):
 
 ```bash
-npx skills add devstenic/bridge-the-gap-skills
+npx skills add mateuszrusdev/bridge-the-gap-skills
 ```
 
 As a Claude Code plugin:
 
 ```bash
-claude plugin marketplace add devstenic/bridge-the-gap-skills
+claude plugin marketplace add mateuszrusdev/bridge-the-gap-skills
 claude plugin install bridge-the-gap-skills@bridge-the-gap
 ```
 

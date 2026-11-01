@@ -7,7 +7,7 @@
     "url": "https://www.linkedin.com/in/mateusz-rus-782b3b181"
   },
   "license": "MIT",
-  "homepage": "https://github.com/devstenic/bridge-the-gap-skills",
-  "repository": "https://github.com/devstenic/bridge-the-gap-skills",
+  "homepage": "https://github.com/mateuszrusdev/bridge-the-gap-skills",
+  "repository": "https://github.com/mateuszrusdev/bridge-the-gap-skills",
   "keywords": ["flutter", "go_router", "getx", "migration", "hexagonal", "accessibility"]
 }
